@@ -1,5 +1,5 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
-<jsp:forward page="./login.html"></jsp:forward>
+<jsp:forward page="./home.jsp"></jsp:forward>
 <!DOCTYPE html>
 <html>
 <head>
